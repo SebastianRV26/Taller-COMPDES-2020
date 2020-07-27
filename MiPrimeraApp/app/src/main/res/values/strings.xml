@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Primera App</string>
+    <string name="primer_valor">Primer Valor</string>
+    <string name="segundo_valor">Segundo Valor</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="ejecutar">Ejecutar</string>
+    <string name="resultado">Resultado</string>
+</resources>
