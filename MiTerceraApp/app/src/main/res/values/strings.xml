@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Tercera App</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="atras">Atrás</string>
+    <string name="salir">Salir</string>
+    <string name="hola_programador">Hola programador!</string>
+</resources>
